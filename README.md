@@ -74,10 +74,10 @@ OR
 
 Ac4d5c6c, 5d6d9c8c, Ad4sTd2s, As9s7d8d, KhKdAsTs
 
-#Wasn't implemented: 
+# Wasn't implemented: 
 * In case there are multiple hands with the same value on the same board they should be ordered alphabetically and separated by "=" signs,
 
-#Building
+# Building
 For build and run App need to use SBT:
 * In directory with "build.sbt" file run command: 
 
